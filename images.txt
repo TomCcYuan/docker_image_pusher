@@ -4,6 +4,7 @@ platform=linux/arm64 ubuntu
 
 python:3.12
 registry:2.8.3
+openjdk:11.0.15
 
 
 
