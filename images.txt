@@ -1,3 +1,5 @@
-mongo:5.0.28
-platform=linux/arm64 mongo
+ubuntu:22.04
+#支持指定架构
+platform=linux/arm64 ubuntu
+
 
