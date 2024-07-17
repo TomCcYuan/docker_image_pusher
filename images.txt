@@ -1,6 +1,4 @@
-python:3.12
-registry:2.8.3
-openjdk:11.0.15
+openjdk:17-jdk-alpine
 platform=linux/arm64 openjdk
 
 
