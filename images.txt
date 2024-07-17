@@ -3,6 +3,7 @@ ubuntu:22.04
 platform=linux/arm64 ubuntu
 
 python:3.12
+registry:2.8.3
 
 
 
