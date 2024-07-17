@@ -1,4 +1,6 @@
-portainer/portainer-ce:2.20.3
-
+# portainer/portainer-ce:2.20.3
+nextcloud:29.0.3
+snowdreamtech/frpc:0.59
+snowdreamtech/frps:0.59
 
 
