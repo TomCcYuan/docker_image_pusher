@@ -12,6 +12,7 @@
 #syncthing/syncthing:1.27
 #jeessy/ddns-go:v6.6.4
 #hslr/sun-panel:1.5.1
-linuxserver/qbittorrent:4.6.5
+#linuxserver/qbittorrent:4.6.5
+linuxserver/calibre-web:0.6.22
 
 
