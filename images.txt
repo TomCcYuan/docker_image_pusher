@@ -1,24 +1,25 @@
-#openjdk:8-jdk-alpine
-#platform=linux/arm64 openjdk
-#openjdk:17-jdk-alpine
-#redis
-#mysql:5.7
-#mysql:8.4
-#portainer/portainer-ce:2.20.3
-#nextcloud:29.0.3
-#snowdreamtech/frpc:0.59
-#snowdreamtech/frps:0.59
+nginx:1.27.0
+openjdk:8-jdk-alpine
+platform=linux/arm64 openjdk
+openjdk:17-jdk-alpine
+redis:5.0.12
+mysql:5.7
+mysql:8.4
+portainer/portainer-ce:2.20.3
+nextcloud:29.0.3
+snowdreamtech/frpc:0.59
+snowdreamtech/frps:0.59
 
-#xhofe/alist:v3.35.0
+xhofe/alist:v3.35.0
 #支持指定架构
-#platform=linux/arm64 xiaoyaliu/alist
+platform=linux/arm64 xiaoyaliu/alist
 
-#jellyfin/jellyfin:10
-#jonnyan404/verysync:2.17.0
-#syncthing/syncthing:1.27
-#jeessy/ddns-go:v6.6.4
-#hslr/sun-panel:1.5.1
-#linuxserver/qbittorrent:4.6.5
-#linuxserver/calibre-web:0.6.22
+jellyfin/jellyfin:10
+jonnyan404/verysync:2.17.0
+syncthing/syncthing:1.27
+jeessy/ddns-go:v6.6.4
+hslr/sun-panel:1.5.1
+linuxserver/qbittorrent:4.6.5
+linuxserver/calibre-web:0.6.22
 
 
