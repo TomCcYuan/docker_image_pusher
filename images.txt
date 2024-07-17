@@ -25,5 +25,5 @@
 #linuxserver/overseerr:1.33.2
 #linuxserver/radarr:5.7.0
 #hsuyelin/nas-tools:3.4.0
-metacubex/clash-meta:v1.16.0
-
+#metacubex/clash-meta:v1.16.0
+star7th/showdoc:v3.2.6
