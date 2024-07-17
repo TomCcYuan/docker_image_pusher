@@ -22,5 +22,6 @@
 #linuxserver/qbittorrent:4.6.5 
 #linuxserver/calibre-web:0.6.22
 #eritpchy/aliyundrive-webdav:4.1.0-20240713
-linuxserver/overseerr:1.33.2
+#linuxserver/overseerr:1.33.2
+linuxserver/radarr:5.7.0
 
