@@ -1,5 +1,4 @@
-openjdk:17-jdk-alpine
-platform=linux/arm64 openjdk
+redis:5.0.12
 
 
 
