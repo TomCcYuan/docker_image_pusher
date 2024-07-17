@@ -3,19 +3,17 @@
 #platform=linux/arm64 openjdk
 #openjdk:17-jdk-alpine
 #platform=linux/arm64 openjdk
-redis:5.0.13
-redis:7.2.5
-mysql:5.7
-mysql:8.4
-portainer/portainer-ce:2.20.3
-nextcloud:29.0.3
-snowdreamtech/frpc:0.59
-snowdreamtech/frps:0.59
-
-xhofe/alist:v3.35.0
+#redis:5.0.13
+#redis:7.2.5
+#mysql:5.7
+#mysql:8.4
+#portainer/portainer-ce:2.20.3
+#xhofe/alist:v3.35.0
 #支持指定架构
-platform=linux/arm64 xiaoyaliu/alist
-
+#platform=linux/arm64 xiaoyaliu/alist
+#nextcloud:29.0.3
+#snowdreamtech/frpc:0.59
+#snowdreamtech/frps:0.59
 jellyfin/jellyfin:10
 jonnyan404/verysync:2.17.0
 syncthing/syncthing:1.27
