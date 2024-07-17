@@ -1,3 +1,4 @@
+
 #nginx:1.27.0
 #openjdk:8-jdk-alpine
 #platform=linux/arm64 openjdk
@@ -26,4 +27,5 @@
 #linuxserver/radarr:5.7.0
 #hsuyelin/nas-tools:3.4.0
 #metacubex/clash-meta:v1.16.0
-star7th/showdoc:v3.2.6
+#star7th/showdoc:v3.2.6
+xhongc/music_tag_web:2.1.3
